@@ -1,0 +1,270 @@
+doid_id	drugbank_id	disease	drug	category	n_curators	n_resources	piece
+DOID:0050425	DB00190	restless legs syndrome	Carbidopa	SYM	3	1	4
+DOID:0050425	DB00230	restless legs syndrome	Pregabalin	SYM	3	1	4
+DOID:0050425	DB00575	restless legs syndrome	Clonidine	SYM	3	1	4
+DOID:0050741	DB00215	alcohol dependence	Citalopram	DM	2	1	4
+DOID:0050741	DB00822	alcohol dependence	Disulfiram	DM	2	1	4
+DOID:0050742	DB00184	nicotine dependence	Nicotine	SYM	2	1	4
+DOID:0060073	DB00563	lymphatic system cancer	Methotrexate	DM	3	1	4
+DOID:0060073	DB00987	lymphatic system cancer	Cytarabine	DM	3	1	4
+DOID:1024	DB00250	leprosy	Dapsone	DM	3	2	4
+DOID:10283	DB00230	prostate cancer	Pregabalin	NOT	3	1	4
+DOID:10283	DB00399	prostate cancer	Zoledronate	NOT	2	2	4
+DOID:10283	DB00443	prostate cancer	Betamethasone	SYM	3	1	4
+DOID:10283	DB00877	prostate cancer	Sirolimus	NOT	2	1	4
+DOID:10283	DB00977	prostate cancer	Ethinyl Estradiol	DM	2	1	4
+DOID:10283	DB01005	prostate cancer	Hydroxyurea	NOT	2	1	4
+DOID:10283	DB01101	prostate cancer	Capecitabine	DM	3	1	4
+DOID:10283	DB01234	prostate cancer	Dexamethasone	SYM	2	1	4
+DOID:10534	DB00305	stomach cancer	Mitomycin	DM	3	2	4
+DOID:10652	DB00747	Alzheimer's disease	Scopolamine	NOT	3	1	4
+DOID:10652	DB00810	Alzheimer's disease	Biperiden	NOT	2	1	4
+DOID:10652	DB00989	Alzheimer's disease	Rivastigmine	DM	1	3	4
+DOID:10763	DB00203	hypertension	Sildenafil	NOT	2	3	4
+DOID:10763	DB00270	hypertension	Isradipine	DM	2	1	4
+DOID:10763	DB00275	hypertension	Olmesartan	DM	3	4	4
+DOID:10763	DB00287	hypertension	Travoprost	NOT	3	1	4
+DOID:10763	DB00381	hypertension	Amlodipine	DM	3	1	4
+DOID:10763	DB00559	hypertension	Bosentan	NOT	1	3	4
+DOID:10763	DB00575	hypertension	Clonidine	DM	2	4	4
+DOID:10763	DB00692	hypertension	Phentolamine	SYM	3	2	4
+DOID:10763	DB00761	hypertension	Potassium Chloride	NOT	3	1	4
+DOID:10763	DB00800	hypertension	Fenoldopam	DM	2	1	4
+DOID:10763	DB00808	hypertension	Indapamide	DM	2	1	4
+DOID:10763	DB00876	hypertension	Eprosartan	DM	3	2	4
+DOID:10763	DB00966	hypertension	Telmisartan	DM	3	4	4
+DOID:10763	DB01018	hypertension	Guanfacine	DM	3	4	4
+DOID:10763	DB01115	hypertension	Nifedipine	DM	2	4	4
+DOID:10763	DB01118	hypertension	Amiodarone	NOT	2	1	4
+DOID:10763	DB01174	hypertension	Phenobarbital	NOT	3	1	4
+DOID:10763	DB01210	hypertension	Levobunolol	NOT	2	1	4
+DOID:10763	DB01244	hypertension	Bepridil	DM	1	1	4
+DOID:10763	DB04861	hypertension	Nebivolol	DM	3	1	4
+DOID:10763	DB05389	hypertension	WF10	NOT	3	1	4
+DOID:1094	DB00182	attention deficit hyperactivity disorder	Amphetamine	SYM	3	1	4
+DOID:1094	DB01156	attention deficit hyperactivity disorder	Bupropion	SYM	3	1	4
+DOID:1094	DB01577	attention deficit hyperactivity disorder	Methamphetamine	SYM	3	1	4
+DOID:11054	DB00441	urinary bladder cancer	Gemcitabine	DM	3	1	4
+DOID:11054	DB00445	urinary bladder cancer	Epirubicin	DM	3	1	4
+DOID:11054	DB04572	urinary bladder cancer	Thiotepa	DM	3	1	4
+DOID:11119	DB00575	Gilles de la Tourette syndrome	Clonidine	SYM	3	2	4
+DOID:11119	DB01100	Gilles de la Tourette syndrome	Pimozide	SYM	3	1	4
+DOID:1115	DB00773	sarcoma	Etoposide	DM	3	1	4
+DOID:11476	DB00258	osteoporosis	Calcium Acetate	DM	2	1	4
+DOID:11476	DB00282	osteoporosis	Pamidronate	DM	3	1	4
+DOID:11476	DB00399	osteoporosis	Zoledronate	DM	3	4	4
+DOID:11476	DB00481	osteoporosis	Raloxifene	DM	3	4	4
+DOID:11476	DB00977	osteoporosis	Ethinyl Estradiol	DM	3	1	4
+DOID:11612	DB00331	polycystic ovary syndrome	Metformin	DM	3	1	4
+DOID:11612	DB01395	polycystic ovary syndrome	Drospirenone	SYM	2	1	4
+DOID:11714	DB01016	gestational diabetes	Glyburide	DM	3	1	4
+DOID:1192	DB00541	peripheral nervous system neoplasm	Vincristine	DM	2	2	4
+DOID:1192	DB00851	peripheral nervous system neoplasm	Dacarbazine	DM	3	2	4
+DOID:12236	DB00859	primary biliary cirrhosis	Penicillamine	NOT	2	1	4
+DOID:12236	DB06777	primary biliary cirrhosis	Chenodeoxycholic acid	DM	1	1	4
+DOID:12306	DB00600	vitiligo	Monobenzone	SYM	2	1	4
+DOID:12365	DB00250	malaria	Dapsone	DM	3	1	4
+DOID:12365	DB00806	malaria	Pentoxifylline	DM	2	1	4
+DOID:12365	DB06697	malaria	Artemether	DM	3	1	4
+DOID:1312	DB00091	focal segmental glomerulosclerosis	Cyclosporine	DM	3	1	4
+DOID:13189	DB00860	gout	Prednisolone	DM	2	2	4
+DOID:1319	DB01168	brain cancer	Procarbazine	DM	3	1	4
+DOID:1319	DB01234	brain cancer	Dexamethasone	SYM	3	2	4
+DOID:1324	DB00158	lung cancer	Folic Acid	NOT	3	1	4
+DOID:1324	DB00444	lung cancer	Teniposide	DM	3	1	4
+DOID:1324	DB00563	lung cancer	Methotrexate	DM	3	1	4
+DOID:1324	DB00642	lung cancer	Pemetrexed	DM	3	2	4
+DOID:1324	DB00813	lung cancer	Fentanyl	SYM	3	1	4
+DOID:14330	DB00376	Parkinson's disease	Trihexyphenidyl	SYM	3	1	4
+DOID:14330	DB00425	Parkinson's disease	Zolpidem	NOT	2	1	4
+DOID:14330	DB00494	Parkinson's disease	Entacapone	SYM	3	3	4
+DOID:14330	DB00989	Parkinson's disease	Rivastigmine	SYM	3	4	4
+DOID:14330	DB01075	Parkinson's disease	Diphenhydramine	SYM	2	1	4
+DOID:14330	DB01224	Parkinson's disease	Quetiapine	NOT	2	1	4
+DOID:14330	DB05271	Parkinson's disease	Rotigotine	SYM	3	1	4
+DOID:1459	DB00279	hypothyroidism	Liothyronine	DM	3	4	4
+DOID:1595	DB00313	endogenous depression	Valproic Acid	SYM	2	1	4
+DOID:1595	DB00540	endogenous depression	Nortriptyline	SYM	3	2	4
+DOID:1595	DB01238	endogenous depression	Aripiprazole	SYM	3	1	4
+DOID:1612	DB00282	breast cancer	Pamidronate	NOT	2	2	4
+DOID:1612	DB00361	breast cancer	Vinorelbine	DM	3	1	4
+DOID:1612	DB00544	breast cancer	Fluorouracil	DM	3	2	4
+DOID:1612	DB01006	breast cancer	Letrozole	DM	3	3	4
+DOID:1612	DB01204	breast cancer	Mitoxantrone	DM	2	1	4
+DOID:1612	DB01217	breast cancer	Anastrozole	DM	3	4	4
+DOID:1612	DB01420	breast cancer	Testosterone Propionate	SYM	1	1	4
+DOID:1612	DB06710	breast cancer	Methyltestosterone	SYM	1	1	4
+DOID:1612	DB08866	breast cancer	Estradiol valerate/Dienogest	SYM	1	1	4
+DOID:1686	DB00195	glaucoma	Betaxolol	DM	2	1	4
+DOID:1686	DB00575	glaucoma	Clonidine	DM	2	1	4
+DOID:1686	DB00869	glaucoma	Dorzolamide	DM	3	2	4
+DOID:1686	DB00981	glaucoma	Physostigmine	DM	2	1	4
+DOID:1686	DB01194	glaucoma	Brinzolamide	DM	2	2	4
+DOID:1686	DB01210	glaucoma	Levobunolol	DM	2	2	4
+DOID:1793	DB01248	pancreatic cancer	Docetaxel	DM	3	1	4
+DOID:1826	DB00347	epilepsy syndrome	Trimethadione	DM	1	1	4
+DOID:1826	DB00349	epilepsy syndrome	Clobazam	DM	1	1	4
+DOID:1826	DB00620	epilepsy syndrome	Triamcinolone	NOT	3	1	4
+DOID:1826	DB00795	epilepsy syndrome	Sulfasalazine	NOT	3	1	4
+DOID:1826	DB01202	epilepsy syndrome	Levetiracetam	DM	1	4	4
+DOID:184	DB00445	bone cancer	Epirubicin	DM	3	1	4
+DOID:184	DB00563	bone cancer	Methotrexate	DM	3	3	4
+DOID:1936	DB00641	atherosclerosis	Simvastatin	DM	3	1	4
+DOID:1936	DB01098	atherosclerosis	Rosuvastatin	DM	3	2	4
+DOID:219	DB00650	colon cancer	Leucovorin	NOT	1	1	4
+DOID:219	DB00762	colon cancer	Irinotecan	DM	3	2	4
+DOID:219	DB01008	colon cancer	Busulfan	NOT	2	1	4
+DOID:2377	DB00321	multiple sclerosis	Amitriptyline	SYM	3	1	4
+DOID:2377	DB00443	multiple sclerosis	Betamethasone	DM	1	2	4
+DOID:2377	DB00563	multiple sclerosis	Methotrexate	DM	2	1	4
+DOID:2377	DB00996	multiple sclerosis	Gabapentin	SYM	3	1	4
+DOID:2377	DB01036	multiple sclerosis	Tolterodine	SYM	2	1	4
+DOID:2377	DB01198	multiple sclerosis	Zopiclone	SYM	2	1	4
+DOID:2377	DB01591	multiple sclerosis	Solifenacin	SYM	2	1	4
+DOID:2394	DB01248	ovarian cancer	Docetaxel	DM	3	1	4
+DOID:2531	DB00188	hematologic cancer	Bortezomib	DM	3	3	4
+DOID:2531	DB00242	hematologic cancer	Cladribine	DM	3	2	4
+DOID:2531	DB00291	hematologic cancer	Chlorambucil	DM	3	1	4
+DOID:2531	DB00443	hematologic cancer	Betamethasone	DM	1	2	4
+DOID:2531	DB00541	hematologic cancer	Vincristine	DM	3	2	4
+DOID:2531	DB00563	hematologic cancer	Methotrexate	DM	3	3	4
+DOID:2531	DB00619	hematologic cancer	Imatinib	DM	3	3	4
+DOID:2531	DB00755	hematologic cancer	Tretinoin	NOT	2	1	4
+DOID:2531	DB00982	hematologic cancer	Isotretinoin	NOT	3	2	4
+DOID:263	DB00331	kidney cancer	Metformin	NOT	2	1	4
+DOID:263	DB00338	kidney cancer	Omeprazole	SYM	1	1	4
+DOID:263	DB00398	kidney cancer	Sorafenib	DM	3	4	4
+DOID:263	DB00399	kidney cancer	Zoledronate	NOT	2	1	4
+DOID:263	DB00541	kidney cancer	Vincristine	DM	3	2	4
+DOID:263	DB00741	kidney cancer	Hydrocortisone	SYM	2	1	4
+DOID:263	DB00996	kidney cancer	Gabapentin	NOT	3	1	4
+DOID:263	DB06589	kidney cancer	Pazopanib	DM	3	2	4
+DOID:2841	DB00332	asthma	Ipratropium bromide	DM	3	1	4
+DOID:2841	DB00443	asthma	Betamethasone	DM	2	2	4
+DOID:2841	DB00668	asthma	Epinephrine	SYM	3	4	4
+DOID:2841	DB00816	asthma	Orciprenaline	DM	2	1	4
+DOID:2994	DB00290	germ cell cancer	Bleomycin	DM	3	1	4
+DOID:2994	DB00570	germ cell cancer	Vinblastine	DM	3	1	4
+DOID:2998	DB00515	testicular cancer	Cisplatin	DM	3	1	4
+DOID:2998	DB00563	testicular cancer	Methotrexate	DM	2	2	4
+DOID:2998	DB00970	testicular cancer	Dactinomycin	DM	3	1	4
+DOID:2998	DB00997	testicular cancer	Doxorubicin	DM	3	1	4
+DOID:3083	DB00184	chronic obstructive pulmonary disease	Nicotine	NOT	3	1	4
+DOID:3083	DB00425	chronic obstructive pulmonary disease	Zolpidem	NOT	3	1	4
+DOID:3083	DB00635	chronic obstructive pulmonary disease	Prednisone	DM	2	2	4
+DOID:3083	DB01137	chronic obstructive pulmonary disease	Levofloxacin	SYM	1	1	4
+DOID:3083	DB01274	chronic obstructive pulmonary disease	Arformoterol	DM	2	1	4
+DOID:3083	DB01409	chronic obstructive pulmonary disease	Tiotropium	DM	2	3	4
+DOID:3083	DB05389	chronic obstructive pulmonary disease	WF10	NOT	3	1	4
+DOID:3310	DB00427	atopic dermatitis	Triprolidine	SYM	3	1	4
+DOID:3310	DB00443	atopic dermatitis	Betamethasone	DM	3	4	4
+DOID:3310	DB00764	atopic dermatitis	Mometasone	DM	2	1	4
+DOID:3310	DB01260	atopic dermatitis	Desonide	DM	2	2	4
+DOID:3312	DB00273	bipolar disorder	Topiramate	SYM	3	1	4
+DOID:3312	DB00313	bipolar disorder	Valproic Acid	SYM	3	1	4
+DOID:3312	DB00334	bipolar disorder	Olanzapine	SYM	3	2	4
+DOID:3312	DB00363	bipolar disorder	Clozapine	SYM	3	1	4
+DOID:3312	DB00476	bipolar disorder	Duloxetine	SYM	3	1	4
+DOID:3312	DB00555	bipolar disorder	Lamotrigine	SYM	3	3	4
+DOID:3312	DB00564	bipolar disorder	Carbamazepine	SYM	3	1	4
+DOID:3312	DB00656	bipolar disorder	Trazodone	SYM	3	1	4
+DOID:3312	DB00715	bipolar disorder	Paroxetine	SYM	3	1	4
+DOID:3312	DB00906	bipolar disorder	Tiagabine	SYM	2	1	4
+DOID:3312	DB01238	bipolar disorder	Aripiprazole	SYM	3	3	4
+DOID:3393	DB00281	coronary artery disease	Lidocaine	SYM	3	2	4
+DOID:3393	DB00343	coronary artery disease	Diltiazem	SYM	2	2	4
+DOID:3393	DB00627	coronary artery disease	Niacin	DM	2	3	4
+DOID:3393	DB01020	coronary artery disease	Isosorbide Mononitrate	SYM	3	2	4
+DOID:3393	DB01076	coronary artery disease	Atorvastatin	DM	3	3	4
+DOID:3393	DB01583	coronary artery disease	Liotrix	NOT	3	1	4
+DOID:3393	DB08816	coronary artery disease	Ticagrelor	DM	3	1	4
+DOID:3393	DB08860	coronary artery disease	Pitavastatin	DM	3	1	4
+DOID:3565	DB00987	meningioma	Cytarabine	NOT	3	1	4
+DOID:3571	DB00997	liver cancer	Doxorubicin	DM	3	1	4
+DOID:363	DB00445	uterine cancer	Epirubicin	DM	3	1	4
+DOID:363	DB00603	uterine cancer	Medroxyprogesterone Acetate	DM	2	1	4
+DOID:4045	DB00773	muscle cancer	Etoposide	DM	3	1	4
+DOID:4045	DB01042	muscle cancer	Melphalan	NOT	2	2	4
+DOID:4159	DB00290	skin cancer	Bleomycin	DM	3	1	4
+DOID:4159	DB00853	skin cancer	Temozolomide	DM	1	2	4
+DOID:4159	DB01042	skin cancer	Melphalan	NOT	2	1	4
+DOID:418	DB00158	systemic scleroderma	Folic Acid	NOT	3	1	4
+DOID:418	DB00688	systemic scleroderma	Mycophenolate mofetil	DM	3	1	4
+DOID:418	DB00797	systemic scleroderma	Tolazoline	SYM	2	1	4
+DOID:418	DB00820	systemic scleroderma	Tadalafil	SYM	2	1	4
+DOID:418	DB01166	systemic scleroderma	Cilostazol	SYM	3	1	4
+DOID:418	DB01394	systemic scleroderma	Colchicine	SYM	1	1	4
+DOID:4481	DB00338	allergic rhinitis	Omeprazole	NOT	3	1	4
+DOID:4481	DB00434	allergic rhinitis	Cyproheptadine	DM	2	1	4
+DOID:4481	DB00535	allergic rhinitis	Cefdinir	NOT	3	1	4
+DOID:4481	DB00985	allergic rhinitis	Dimenhydrinate	DM	1	1	4
+DOID:5041	DB00736	esophageal cancer	Esomeprazole	SYM	3	1	4
+DOID:5408	DB00282	Paget's disease of bone	Pamidronate	DM	3	2	4
+DOID:5419	DB00363	schizophrenia	Clozapine	SYM	3	1	4
+DOID:5419	DB00656	schizophrenia	Trazodone	SYM	2	1	4
+DOID:594	DB00186	panic disorder	Lorazepam	SYM	3	1	4
+DOID:594	DB00458	panic disorder	Imipramine	SYM	3	2	4
+DOID:594	DB00829	panic disorder	Diazepam	SYM	3	1	4
+DOID:594	DB01104	panic disorder	Sertraline	SYM	3	3	4
+DOID:594	DB01242	panic disorder	Clomipramine	SYM	3	2	4
+DOID:635	DB00224	acquired immunodeficiency syndrome	Indinavir	DM	3	1	4
+DOID:635	DB00649	acquired immunodeficiency syndrome	Stavudine	DM	3	1	4
+DOID:635	DB01004	acquired immunodeficiency syndrome	Ganciclovir	NOT	2	1	4
+DOID:6364	DB00241	migraine	Butalbital	SYM	3	1	4
+DOID:6364	DB00313	migraine	Valproic Acid	DM	1	2	4
+DOID:6364	DB00571	migraine	Propranolol	DM	1	1	4
+DOID:6364	DB00669	migraine	Sumatriptan	SYM	3	3	4
+DOID:6364	DB00924	migraine	Cyclobenzaprine	SYM	2	1	4
+DOID:6364	DB00998	migraine	Frovatriptan	SYM	3	3	4
+DOID:7147	DB00328	ankylosing spondylitis	Indomethacin	SYM	3	3	4
+DOID:7147	DB00586	ankylosing spondylitis	Diclofenac	SYM	3	2	4
+DOID:7147	DB00924	ankylosing spondylitis	Cyclobenzaprine	NOT	2	1	4
+DOID:7147	DB00959	ankylosing spondylitis	Methylprednisolone	DM	1	1	4
+DOID:7148	DB00091	rheumatoid arthritis	Cyclosporine	DM	3	2	4
+DOID:7148	DB00281	rheumatoid arthritis	Lidocaine	SYM	3	1	4
+DOID:7148	DB00321	rheumatoid arthritis	Amitriptyline	SYM	2	1	4
+DOID:7148	DB00443	rheumatoid arthritis	Betamethasone	DM	1	2	4
+DOID:7148	DB00620	rheumatoid arthritis	Triamcinolone	DM	2	1	4
+DOID:7148	DB00795	rheumatoid arthritis	Sulfasalazine	DM	3	3	4
+DOID:7148	DB00859	rheumatoid arthritis	Penicillamine	DM	3	1	4
+DOID:7148	DB00996	rheumatoid arthritis	Gabapentin	SYM	2	1	4
+DOID:7148	DB01197	rheumatoid arthritis	Captopril	NOT	3	1	4
+DOID:7148	DB01303	rheumatoid arthritis	Oxtriphylline	NOT	3	1	4
+DOID:784	DB00567	chronic kidney failure	Cephalexin	NOT	3	1	4
+DOID:784	DB00695	chronic kidney failure	Furosemide	SYM	3	2	4
+DOID:784	DB00746	chronic kidney failure	Deferoxamine	SYM	2	1	4
+DOID:824	DB00417	periodontitis	Penicillin V	NOT	2	1	4
+DOID:8398	DB00328	osteoarthritis	Indomethacin	SYM	2	1	4
+DOID:8398	DB00482	osteoarthritis	Celecoxib	SYM	3	2	4
+DOID:8398	DB00500	osteoarthritis	Tolmetin	SYM	2	1	4
+DOID:8398	DB00861	osteoarthritis	Diflunisal	SYM	2	1	4
+DOID:8398	DB00991	osteoarthritis	Oxaprozin	SYM	2	1	4
+DOID:8398	DB01068	osteoarthritis	Clonazepam	NOT	2	1	4
+DOID:8577	DB00741	ulcerative colitis	Hydrocortisone	DM	1	1	4
+DOID:8577	DB00860	ulcerative colitis	Prednisolone	DM	1	2	4
+DOID:8577	DB00959	ulcerative colitis	Methylprednisolone	DM	2	1	4
+DOID:8577	DB00993	ulcerative colitis	Azathioprine	DM	3	3	4
+DOID:8577	DB01250	ulcerative colitis	Olsalazine	DM	3	1	4
+DOID:8778	DB00572	Crohn's disease	Atropine	SYM	2	1	4
+DOID:8778	DB00916	Crohn's disease	Metronidazole	NOT	2	1	4
+DOID:8778	DB01033	Crohn's disease	Mercaptopurine	DM	3	1	4
+DOID:8893	DB00091	psoriasis	Cyclosporine	DM	3	2	4
+DOID:8893	DB00136	psoriasis	Calcitriol	DM	2	1	4
+DOID:8893	DB00394	psoriasis	Beclomethasone	DM	2	1	4
+DOID:8893	DB00563	psoriasis	Methotrexate	DM	3	2	4
+DOID:8893	DB00620	psoriasis	Triamcinolone	DM	2	2	4
+DOID:9008	DB00443	psoriatic arthritis	Betamethasone	DM	1	1	4
+DOID:9008	DB00995	psoriatic arthritis	Auranofin	DM	2	1	4
+DOID:9008	DB01234	psoriatic arthritis	Dexamethasone	DM	1	1	4
+DOID:9074	DB00443	systemic lupus erythematosus	Betamethasone	DM	1	1	4
+DOID:9074	DB00482	systemic lupus erythematosus	Celecoxib	SYM	2	1	4
+DOID:9074	DB00563	systemic lupus erythematosus	Methotrexate	DM	3	1	4
+DOID:9074	DB00945	systemic lupus erythematosus	Acetylsalicylic acid	SYM	1	2	4
+DOID:9206	DB00338	Barrett's esophagus	Omeprazole	DM	3	1	4
+DOID:9206	DB00736	Barrett's esophagus	Esomeprazole	DM	3	1	4
+DOID:9352	DB00412	type 2 diabetes mellitus	Rosiglitazone	DM	2	1	4
+DOID:9352	DB00731	type 2 diabetes mellitus	Nateglinide	DM	2	3	4
+DOID:9352	DB00839	type 2 diabetes mellitus	Tolazamide	DM	2	2	4
+DOID:9352	DB01076	type 2 diabetes mellitus	Atorvastatin	NOT	3	1	4
+DOID:9352	DB01083	type 2 diabetes mellitus	Orlistat	DM	2	1	4
+DOID:9970	DB01156	obesity	Bupropion	DM	2	1	4
